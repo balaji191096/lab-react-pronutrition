@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/balaji191096/lab-react-pronutrition/static/css/main.408b8d7b.chunk.css",
+    "main.js": "/balaji191096/lab-react-pronutrition/static/js/main.9c0c9d1a.chunk.js",
+    "main.js.map": "/balaji191096/lab-react-pronutrition/static/js/main.9c0c9d1a.chunk.js.map",
+    "runtime-main.js": "/balaji191096/lab-react-pronutrition/static/js/runtime-main.ddc1b6ac.js",
+    "runtime-main.js.map": "/balaji191096/lab-react-pronutrition/static/js/runtime-main.ddc1b6ac.js.map",
+    "static/js/2.06b06bb1.chunk.js": "/balaji191096/lab-react-pronutrition/static/js/2.06b06bb1.chunk.js",
+    "static/js/2.06b06bb1.chunk.js.map": "/balaji191096/lab-react-pronutrition/static/js/2.06b06bb1.chunk.js.map",
+    "index.html": "/balaji191096/lab-react-pronutrition/index.html",
+    "static/css/main.408b8d7b.chunk.css.map": "/balaji191096/lab-react-pronutrition/static/css/main.408b8d7b.chunk.css.map",
+    "static/js/2.06b06bb1.chunk.js.LICENSE.txt": "/balaji191096/lab-react-pronutrition/static/js/2.06b06bb1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddc1b6ac.js",
+    "static/js/2.06b06bb1.chunk.js",
+    "static/css/main.408b8d7b.chunk.css",
+    "static/js/main.9c0c9d1a.chunk.js"
+  ]
+}
