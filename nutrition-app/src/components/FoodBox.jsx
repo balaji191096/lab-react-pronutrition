@@ -130,7 +130,7 @@ export default class FoodBox extends Component {
                                         <h4>{fruit.calories}</h4>
                                     </div>
                                     <div className="count">
-                                        <input type="number" defaultValue="1" id={fruit.name} min="0" />
+                                        <input  class = "input-box" type="number" defaultValue="1" id={fruit.name} min="0" />
                                         <button onClick={this.addFruit} value={fruit.name}>+</button>
                                     </div>
                                 </div>
